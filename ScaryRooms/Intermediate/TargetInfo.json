@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ScaryRooms",
+			"Path": "..\\Source\\ScaryRooms.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ScaryRoomsEditor",
+			"Path": "..\\Source\\ScaryRoomsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

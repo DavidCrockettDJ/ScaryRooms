@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ScaryRooms.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal_Projects\ScaryRooms\ScaryRooms\Intermediate\Build\Win64\x64\ScaryRoomsEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Unreal_Projects\ScaryRooms\ScaryRooms\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScaryRooms\ScaryRooms.init.gen.cpp.obj"
+"C:\Unreal_Projects\ScaryRooms\ScaryRooms\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScaryRooms\SCharacter.gen.cpp.obj"
+"C:\Unreal_Projects\ScaryRooms\ScaryRooms\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScaryRooms\ScaryRooms.cpp.obj"
+"C:\Unreal_Projects\ScaryRooms\ScaryRooms\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScaryRooms\SCharacter.cpp.obj"
+"C:\Unreal_Projects\ScaryRooms\ScaryRooms\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScaryRooms\Default.rc2.res"
+/OUT:"C:\Unreal_Projects\ScaryRooms\ScaryRooms\Intermediate\Build\Win64\x64\UnrealEditor\Development\ScaryRooms\UnrealEditor-ScaryRooms.lib"
